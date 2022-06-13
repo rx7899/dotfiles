@@ -21,3 +21,4 @@ utils.map('n', '<leader>vr','<cmd>lua vim.lsp.buf.references()<cr>')
 
 -- others
 utils.map('n', '<leader>n','<cmd>bn<cr>')
+vim.api.nvim_set_keymap("n", "<leader>rn", "<cmd>lua vim.lsp.buf.rename()<CR>", { noremap = true })
