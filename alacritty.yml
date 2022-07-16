@@ -4,8 +4,8 @@ window:
     y: 4
 font:
   normal:
-    family: hack
-  size: 10
+    family: FantasqueSansMono
+  size: 11
 
 colors:
   # Default colors

@@ -109,11 +109,6 @@ _G.packer_plugins = {
     path = "/home/tricky/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
   },
-  nofrils = {
-    loaded = true,
-    path = "/home/tricky/.local/share/nvim/site/pack/packer/start/nofrils",
-    url = "https://github.com/robertmeta/nofrils"
-  },
   ["nvim-cmp"] = {
     loaded = true,
     path = "/home/tricky/.local/share/nvim/site/pack/packer/start/nvim-cmp",
@@ -123,11 +118,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/tricky/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
     url = "https://github.com/neovim/nvim-lspconfig"
-  },
-  ["nvim-tree.lua"] = {
-    loaded = true,
-    path = "/home/tricky/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
-    url = "https://github.com/kyazdani42/nvim-tree.lua"
   },
   ["nvim-web-devicons"] = {
     loaded = true,
@@ -144,25 +134,15 @@ _G.packer_plugins = {
     path = "/home/tricky/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
-  vacme = {
-    loaded = true,
-    path = "/home/tricky/.local/share/nvim/site/pack/packer/start/vacme",
-    url = "https://github.com/olivertaylor/vacme"
-  },
-  ["vim-256noir"] = {
-    loaded = true,
-    path = "/home/tricky/.local/share/nvim/site/pack/packer/start/vim-256noir",
-    url = "https://github.com/andreasvc/vim-256noir"
-  },
   ["vim-code-dark"] = {
     loaded = true,
     path = "/home/tricky/.local/share/nvim/site/pack/packer/start/vim-code-dark",
     url = "https://github.com/tomasiser/vim-code-dark"
   },
-  ["vim-colors-paramount"] = {
+  ["zig.vim"] = {
     loaded = true,
-    path = "/home/tricky/.local/share/nvim/site/pack/packer/start/vim-colors-paramount",
-    url = "https://github.com/owickstrom/vim-colors-paramount"
+    path = "/home/tricky/.local/share/nvim/site/pack/packer/start/zig.vim",
+    url = "https://github.com/ziglang/zig.vim"
   }
 }
 
