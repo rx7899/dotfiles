@@ -8,6 +8,6 @@ utils.opt('o','encoding','UTF-8')
 
 
 cmd [[set termguicolors]]
-cmd [[colorscheme dracula]]
-cmd [[set guicursor=i:block]]
 cmd [[set cul]]
+cmd [[set guicursor=i:block]]
+cmd [[set so=9]]

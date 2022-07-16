@@ -23,10 +23,8 @@ return require('packer').startup(function(use)
 	use 'hrsh7th/cmp-path'
 	use 'L3MON4D3/LuaSnip'
 	use 'saadparwaiz1/cmp_luasnip'
-	use 'rakr/vim-one'
-	use 'sickill/vim-monokai'
-	use 'dracula/vim'
 	use 'kdheepak/lazygit.nvim'
+	use 'ziglang/zig.vim'
   if packer_bootstrap then
     require('packer').sync()
   end
